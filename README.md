@@ -1,2 +1,2 @@
 # PHP-Regex-Checker
-This software is intended to be used for backend input validation
+PHP Regex Checker.  Backend input validation, using regular expressions, and implemented in PHP. 
